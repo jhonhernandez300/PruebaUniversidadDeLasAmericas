@@ -1,4 +1,5 @@
-﻿$(document).ready(function () {
+﻿$(document).ready(function () {    
+
     $('#btnSiguiente').click(function () {
         var form = $('form');
 

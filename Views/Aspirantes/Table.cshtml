@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "View";
+}
+
+<div class="container mt-5">
+    <h2>Items</h2>
+    <input class="form-control mb-3" id="tableFilter" type="text" placeholder="Search...">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Primer Nombre</th>
+                <th>Primer Apellido</th>
+                <th>Estado</th>
+                <th>Sede</th>
+                <th>Programa</th>
+                <th>Período</th>
+                <th>TipoDeDocumento</th>
+                <th>NumeroDeDocumento</th>
+                <th>Período Académico</th>
+                <th>Teléfono Fijo</th>
+                <th>Celular</th>
+                <th>Correo</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.PrimerNombre</td>
+                    <td>@item.PrimerApellido</td>
+                    <td>@item.Estado</td>
+                    <td>@item.SedeNombre</td>
+                    <td>@item.ProgramaNombre</td>
+                    <td>@item.PeriodoAcademico</td>
+                    <td>@item.TipoDeDocumento</td>
+                    <td>@item.NumeroDeDocumento</td>
+                    <td>@item.PeriodoAcademico</td>
+                    <td>@item.TelefonoFijo</td>
+                    <td>@item.Celular</td>
+                    <td>@item.Correo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="@Url.Action("ExportPdf")" class="btn btn-primary">Exportar a PDF</a>
+    <a href="@Url.Action("ExportToExcel")" class="btn btn-primary">Exportar a Excel</a>
+</div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+        <script src="~/scripts/table.js"></script>
+    }

@@ -20,6 +20,12 @@ namespace PruebaU.Models
 
         public string SegundoApellido { get; set; }
 
+        public int TelefonoFijo { get; set; }
+
+        public int Celular { get; set; }
+
+        public string Correo { get; set; }
+
         [Required(ErrorMessage = "La fecha de nacimiento es requerida.")]
         [DataType(DataType.Date)]
         public DateTime FechaDeNacimiento { get; set; }
@@ -76,6 +82,6 @@ namespace PruebaU.Models
 
         public virtual Programa Programa { get; set; }
         public virtual Sede Sede { get; set; }
-        public virtual ICollection<PeriodoAcademico> PeriodosAcademicos { get; set; }
+        public virtual ICollection<AspirantesPeriodosAcademicos> AspirantesPeriodosAcademicos { get; set; }
     }
 }

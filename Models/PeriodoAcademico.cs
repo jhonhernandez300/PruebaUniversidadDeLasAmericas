@@ -9,6 +9,6 @@ namespace PruebaU.Models
     {
         public int Id { get; set; }
         public string Periodo { get; set; }
-        public virtual ICollection<Aspirante> Aspirantes { get; set; }
+        public virtual ICollection<AspirantesPeriodosAcademicos> AspirantesPeriodosAcademicos { get; set; }
     }
 }
