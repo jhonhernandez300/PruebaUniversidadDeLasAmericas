@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\views\\aspirantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:views\\aspirantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\sede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\sede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\periodoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\periodoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\aspirantesperiodosacademicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\aspirantesperiodosacademicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\aspirantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\aspirantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\aspirante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\aspirante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\controllers\\aspirantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:controllers\\aspirantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\views\\aspirantes\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:views\\aspirantes\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|c:\\users\\jhon\\onedrive\\documentos\\asp mvc proyectos\\pruebau\\pruebau\\models\\todosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BC2A7D-8F66-4917-85CD-82D334494D77}|PruebaU.csproj|solutionrelative:models\\todosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Views\\Aspirantes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Aspirantes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Views\\Aspirantes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Aspirantes\\Create.cshtml",
-              "ViewState": "AQIAALgAAAAAAAAAAAAuwPwAAAABAAAA",
+              "Title": "Sede.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\Sede.cs",
+              "RelativeDocumentMoniker": "Models\\Sede.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\Sede.cs",
+              "RelativeToolTip": "Models\\Sede.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:27:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\Programa.cs",
+              "RelativeDocumentMoniker": "Models\\Programa.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\Programa.cs",
+              "RelativeToolTip": "Models\\Programa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:27:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeriodoAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\PeriodoAcademico.cs",
+              "RelativeDocumentMoniker": "Models\\PeriodoAcademico.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\PeriodoAcademico.cs",
+              "RelativeToolTip": "Models\\PeriodoAcademico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:27:35.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AspirantesPeriodosAcademicos.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\AspirantesPeriodosAcademicos.cs",
+              "RelativeDocumentMoniker": "Models\\AspirantesPeriodosAcademicos.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\AspirantesPeriodosAcademicos.cs",
+              "RelativeToolTip": "Models\\AspirantesPeriodosAcademicos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:27:30.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspiranteDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\AspiranteDto.cs",
+              "RelativeDocumentMoniker": "Models\\AspiranteDto.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\AspiranteDto.cs",
+              "RelativeToolTip": "Models\\AspiranteDto.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:27:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aspirante.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\Aspirante.cs",
+              "RelativeDocumentMoniker": "Models\\Aspirante.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\Aspirante.cs",
+              "RelativeToolTip": "Models\\Aspirante.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:27:17.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodosDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\TodosDto.cs",
+              "RelativeDocumentMoniker": "Models\\TodosDto.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Models\\TodosDto.cs",
+              "RelativeToolTip": "Models\\TodosDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:17:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AspirantesController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Controllers\\AspirantesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AspirantesController.cs",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Controllers\\AspirantesController.cs",
+              "RelativeToolTip": "Controllers\\AspirantesController.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAKoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:17:22.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Table.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Views\\Aspirantes\\Table.cshtml",
+              "RelativeDocumentMoniker": "Views\\Aspirantes\\Table.cshtml",
+              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\asp mvc proyectos\\PruebaU\\PruebaU\\Views\\Aspirantes\\Table.cshtml",
+              "RelativeToolTip": "Views\\Aspirantes\\Table.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwB4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T00:53:13.405Z",
+              "WhenOpened": "2024-07-09T04:17:10.654Z",
               "EditorCaption": ""
             }
           ]
